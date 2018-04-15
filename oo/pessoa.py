@@ -18,4 +18,4 @@ if __name__ == '__main__':
     p.nome = 'Renzo'
     print(p.nome)
     print(p.idade)
-    print(p.id)
+    print(id(0))
